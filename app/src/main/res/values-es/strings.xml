@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Reproductor</string>
+
+    <!-- Navegación -->
+    <string name="tab_library">Canciones</string>
+    <string name="tab_playlists">Listas</string>
+    <string name="tab_stats">Estadísticas</string>
+    <string name="tab_settings">Ajustes</string>
+
+    <!-- Búsqueda -->
+    <string name="search_hint">Buscar canciones, artistas, álbumes...</string>
+    <string name="filter_all">Todo</string>
+    <string name="filter_tracks">Canciones</string>
+    <string name="filter_artists">Artistas</string>
+    <string name="filter_playlists">Listas</string>
+    <string name="filter_albums">Álbumes</string>
+
+    <!-- Listas automáticas -->
+    <string name="playlist_recent">Reproducidas recientemente</string>
+    <string name="playlist_liked">Me gusta</string>
+    <string name="playlist_most_played">Más reproducidas</string>
+
+    <!-- Ordenar -->
+    <string name="sort_title">Ordenar por</string>
+    <string name="sort_title_asc">Título (A–Z)</string>
+    <string name="sort_title_desc">Título (Z–A)</string>
+    <string name="sort_artist">Artista</string>
+    <string name="sort_date_added">Fecha de agregado</string>
+    <string name="sort_duration">Duración</string>
+    <string name="sort_play_count">Más reproducidas</string>
+
+    <!-- Editar canción -->
+    <string name="edit_track">Editar canción</string>
+    <string name="track_title">Título de la canción</string>
+    <string name="track_artist">Nombre del artista</string>
+    <string name="track_album">Álbum</string>
+    <string name="pick_cover">Elegir portada</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+
+    <!-- Estadísticas -->
+    <string name="stats_total_time">Tiempo total escuchado</string>
+    <string name="stats_top_albums">Top 5 álbumes por tiempo</string>
+    <string name="stats_top_artists">Top 5 artistas por tiempo</string>
+    <string name="hours_short">h</string>
+    <string name="minutes_short">min</string>
+
+    <!-- Ecualizador -->
+    <string name="equalizer">Ecualizador</string>
+    <string name="eq_enable">Activar ecualizador</string>
+
+    <!-- Cola y modos -->
+    <string name="queue_title">Cola</string>
+    <string name="repeat_one">Repetir una</string>
+    <string name="repeat_all">En orden</string>
+    <string name="shuffle_mode">Aleatorio</string>
+    <string name="add_to_queue">Añadir a la cola</string>
+
+    <!-- Ajustes -->
+    <string name="theme_section">Tema de interfaz</string>
+    <string name="theme_dark">Oscuro</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dynamic">Color de portada</string>
+    <string name="ui_scale">Escala de interfaz</string>
+    <string name="wallpaper_section">Fondo de pantalla</string>
+    <string name="pick_wallpaper">Elegir fondo</string>
+    <string name="clear_wallpaper">Quitar fondo</string>
+    <string name="wallpaper_dim">Oscurecer fondo</string>
+    <string name="wallpaper_blur">Desenfoque de fondo</string>
+    <string name="wallpaper_alpha">Opacidad del fondo</string>
+    <string name="language_section">Idioma / Language / Язык</string>
+</resources>
