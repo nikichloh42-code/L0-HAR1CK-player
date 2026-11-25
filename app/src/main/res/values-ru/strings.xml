@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мой Плеер</string>
+
+    <!-- Навигация и разделы -->
+    <string name="tab_library">Треки</string>
+    <string name="tab_playlists">Плейлисты</string>
+    <string name="tab_stats">Статистика</string>
+    <string name="tab_settings">Настройки</string>
+
+    <!-- Поиск -->
+    <string name="search_hint">Поиск песен, артистов, альбомов...</string>
+    <string name="filter_all">Всё</string>
+    <string name="filter_tracks">Треки</string>
+    <string name="filter_artists">Исполнители</string>
+    <string name="filter_playlists">Плейлисты</string>
+    <string name="filter_albums">Альбомы</string>
+
+    <!-- Авто-плейлисты -->
+    <string name="playlist_recent">Недавно игравшие</string>
+    <string name="playlist_liked">Залайканные</string>
+    <string name="playlist_most_played">Наиболее воспроизводимые</string>
+
+    <!-- Сортировка -->
+    <string name="sort_title">Сортировка</string>
+    <string name="sort_title_asc">Название (А–Я)</string>
+    <string name="sort_title_desc">Название (Я–А)</string>
+    <string name="sort_artist">Исполнитель</string>
+    <string name="sort_date_added">Дата добавления</string>
+    <string name="sort_duration">Длительность</string>
+    <string name="sort_play_count">По прослушиваниям</string>
+
+    <!-- Редактирование трека -->
+    <string name="edit_track">Редактировать трек</string>
+    <string name="track_title">Название песни</string>
+    <string name="track_artist">Имя исполнителя</string>
+    <string name="track_album">Альбом</string>
+    <string name="pick_cover">Выбрать обложку</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+
+    <!-- Статистика -->
+    <string name="stats_total_time">Всего прослушано</string>
+    <string name="stats_top_albums">Топ-5 альбомов по времени</string>
+    <string name="stats_top_artists">Топ-5 исполнителей по времени</string>
+    <string name="hours_short">ч</string>
+    <string name="minutes_short">мин</string>
+
+    <!-- Эквалайзер -->
+    <string name="equalizer">Эквалайзер</string>
+    <string name="eq_enable">Включить эквалайзер</string>
+
+    <!-- Очередь и режимы -->
+    <string name="queue_title">Очередь</string>
+    <string name="repeat_one">Повтор одного</string>
+    <string name="repeat_all">По очереди</string>
+    <string name="shuffle_mode">Вперемешку</string>
+    <string name="add_to_queue">Добавить в очередь</string>
+
+    <!-- Настройки -->
+    <string name="theme_section">Тема оформления</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dynamic">Под цвет обложки</string>
+    <string name="ui_scale">Масштаб интерфейса</string>
+    <string name="wallpaper_section">Обои фона</string>
+    <string name="pick_wallpaper">Выбрать обои</string>
+    <string name="clear_wallpaper">Убрать обои</string>
+    <string name="wallpaper_dim">Затемнение обоев</string>
+    <string name="wallpaper_blur">Размытие обоев</string>
+    <string name="wallpaper_alpha">Видимость обоев</string>
+    <string name="language_section">Язык / Language / Idioma</string>
+</resources>
