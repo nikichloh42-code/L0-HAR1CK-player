@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Player</string>
+
+    <!-- Navigation and tabs -->
+    <string name="tab_library">Tracks</string>
+    <string name="tab_playlists">Playlists</string>
+    <string name="tab_stats">Stats</string>
+    <string name="tab_settings">Settings</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search songs, artists, albums...</string>
+    <string name="filter_all">All</string>
+    <string name="filter_tracks">Tracks</string>
+    <string name="filter_artists">Artists</string>
+    <string name="filter_playlists">Playlists</string>
+    <string name="filter_albums">Albums</string>
+
+    <!-- Auto playlists -->
+    <string name="playlist_recent">Recently Played</string>
+    <string name="playlist_liked">Liked Songs</string>
+    <string name="playlist_most_played">Most Played</string>
+
+    <!-- Sorting -->
+    <string name="sort_title">Sort by</string>
+    <string name="sort_title_asc">Title (A–Z)</string>
+    <string name="sort_title_desc">Title (Z–A)</string>
+    <string name="sort_artist">Artist</string>
+    <string name="sort_date_added">Date added</string>
+    <string name="sort_duration">Duration</string>
+    <string name="sort_play_count">Most played</string>
+
+    <!-- Edit track -->
+    <string name="edit_track">Edit track</string>
+    <string name="track_title">Song title</string>
+    <string name="track_artist">Artist name</string>
+    <string name="track_album">Album</string>
+    <string name="pick_cover">Choose cover</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Stats -->
+    <string name="stats_total_time">Total listening time</string>
+    <string name="stats_top_albums">Top 5 albums by time</string>
+    <string name="stats_top_artists">Top 5 artists by time</string>
+    <string name="hours_short">h</string>
+    <string name="minutes_short">min</string>
+
+    <!-- Equalizer -->
+    <string name="equalizer">Equalizer</string>
+    <string name="eq_enable">Enable equalizer</string>
+
+    <!-- Queue and modes -->
+    <string name="queue_title">Queue</string>
+    <string name="repeat_one">Repeat one</string>
+    <string name="repeat_all">In order</string>
+    <string name="shuffle_mode">Shuffle</string>
+    <string name="add_to_queue">Add to queue</string>
+
+    <!-- Settings -->
+    <string name="theme_section">Interface theme</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dynamic">Cover color</string>
+    <string name="ui_scale">UI scale</string>
+    <string name="wallpaper_section">Background wallpaper</string>
+    <string name="pick_wallpaper">Pick wallpaper</string>
+    <string name="clear_wallpaper">Remove wallpaper</string>
+    <string name="wallpaper_dim">Wallpaper dim</string>
+    <string name="wallpaper_blur">Wallpaper blur</string>
+    <string name="wallpaper_alpha">Wallpaper opacity</string>
+    <string name="language_section">Language / Язык / Idioma</string>
+</resources>
