@@ -485,5 +485,7 @@ private fun StatsScreen(
             ) {
                 Row(
                     modifier = Modifier.padding(12.dp),
-                    verticalAlignment = Alignment.CenterVertically
+                    verticalAlignment = Alignment.CenterVertically) {
+                    
+                    
          
