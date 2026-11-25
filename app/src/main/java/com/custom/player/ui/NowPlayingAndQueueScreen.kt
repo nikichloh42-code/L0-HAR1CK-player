@@ -469,4 +469,5 @@ fun QueueScreen(
             onDismissRequest = { showAddPicker = false },
             title = { Text(stringResource(R.string.add_to_queue)) },
             text = {
-                LazyColumn(modifier = Modifi
+                                LazyColumn(modifier = Modifier.heightIn(max = 300.dp)) {
+                                    
