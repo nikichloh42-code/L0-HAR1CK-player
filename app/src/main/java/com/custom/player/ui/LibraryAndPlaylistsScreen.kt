@@ -436,4 +436,4 @@ fun PlaylistsOverviewScreen(
                     .clickable { onSelectArtist(artist) }
             ) {
                 Row(
-                    modifier = Modifier.padding(14.dp
+                    modifier = Modifier.padding(14.dp),
